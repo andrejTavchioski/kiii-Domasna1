@@ -75,4 +75,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: andrejTavchioski/kiii-Domasna06:latest
+          tags: tavco/kiii-5:latest
